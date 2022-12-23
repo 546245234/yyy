@@ -1,6 +1,5 @@
-
+node_modules
 *.css.map
-nav.css
 
 *~
 
